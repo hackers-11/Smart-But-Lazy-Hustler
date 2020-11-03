@@ -1,0 +1,72 @@
+How Hackers Increase Their Instagram Followers
+Sec-n-Hack Sec-N-Hack1 November 2020  Andorid Hacking / Exploiting Tools
+
+Follow Followers Target by Hastag
+Follow Followers Target by Location
+Follow Followers Target by People – with DM
+Follow Followers Target by People – No Like
+Follow Followers Target by People – No Comment & Like
+Repost Media Target by People
+Repost Media Target by Hashtag
+Repost Media Target by Link
+Comment & Like Followers Target by People
+Comment & Like Followers Target by Hashtag
+Bom Like Target’s Post
+Bom Comment Target’s Post
+Unfollow Not Followback
+Let’s take a look 🙂 !!
+Install Node JS
+As we told you that the tool is coded in node JS that’s why we have to install nodejs tool by using the following command.
+
+
+1.) apt install nodejs
+
+Installation
+Now we will download this tool by using 
+git command and after that go to the
+directory of this tool. After that we
+can start this tool with the help of node tool.
+
+
+1.) git clone https://github.com/masokky/instagram-tools.git
+
+2.) cd instagram-tools/
+
+3.) node index.js
+
+Decrease Followers
+We have mentioned an instagram account,
+on which we will test this tool. Just you 
+need to keep in mind all the details that 
+is mentioned on that page.
+
+
+
+Now we will select option 17 to unfollow all 
+the followers. After that we will enter 
+the credentials of our account and wait for 
+the results.
+
+BOOM 🙂 !! were surprised when we looked 
+at our Instagram page as you can see that 
+the number of followers has come down from 
+2245 to 2144.
+
+Similarly, you can also see the results of 
+success or fail through the terminal.
+
+Increase Followers by Personal DM
+After selecting the following option, 
+it will only (direct let you send messages) 
+request the peoples to return back and follow 
+their account by DM and through which attackers 
+gain more followers.
+
+After that we need to give account credentials 
+which we want to increase followers.
+
+Done 😀 !! As you can clearly see the tool 
+has started commenting and DMing on people’s 
+posts. This will definitely take some time, 
+but we are sure that you followers will grow 
+after some time.
