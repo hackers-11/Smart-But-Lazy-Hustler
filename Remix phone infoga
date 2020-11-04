@@ -1,0 +1,25 @@
+Termux:- phone infoga
+
+$ apt update
+
+$ apt upgrade -y
+
+$ pkg up -y
+
+$ pkg install git -y
+
+$ pkg install python -y
+
+$ git clone https://github.com/Wes974/PhoneInfoga
+
+$ cd PhoneInfoga
+
+$ python -m pip install -r requirements.txt
+
+$ python phoneinfoga.py -n +(cc)(number)
+
+(cc) = country code
+
+(number) = phone number 
+
+@termuxhackingrex
